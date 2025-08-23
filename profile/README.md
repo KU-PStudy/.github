@@ -2,8 +2,8 @@
 
 | 언어                                                                                                | 구성원              |
 |---------------------------------------------------------------------------------------------------|------------------|
-| <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=while" alt="C++" />    | 헤파리, 건빵고기, 홀생이인생 |
-| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=while" alt="Python" /> | 후르와              |
+| <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" />    | 헤파리, 건빵고기, 홀생이인생 |
+| <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" /> | 후르와              |
 
 ---
 
