@@ -1,13 +1,18 @@
 # KU-PStudy
 
-| 언어                                                                                                | 구성원              |
+---
+
+##  
+
+| Language                                                                                          | Members          |
 |---------------------------------------------------------------------------------------------------|------------------|
 | <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" />    | 헤파리, 건빵고기, 홀생이인생 |
 | <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" /> | 후르와              |
+| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | `-`              |
 
 ---
 
-## 구성원
+## Members
 
 <table>
   <tr align="center">
@@ -39,4 +44,17 @@
     <td><a href="https://github.com/Holsaeng">@Holsaeng</a></td>
     <td><a href="https://github.com/hruwa">@hruwa</a></td>
   </tr>
+  <tr align="center">
+    <th>solved.ac</th>
+    <td>
+      [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis)](https://solved.ac/profile/rosmontis)
+    </td>
+    <td>
+      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" style="width:80px">
+    </td>
+    <td>`-`</td>
+    <td>`-`</td>
+  </tr>
 </table>
+
+## ***[Back to top](#top)***
