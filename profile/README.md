@@ -47,16 +47,16 @@
   <tr align="center">
     <th>solved.ac</th>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" style="width:80px">
+      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" />
     </td>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" style="width:80px">
+      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" />
     </td>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" alt="홀생이인생" style="width:80px">
+      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" alt="홀생이인생" />
     </td>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" style="width:80px">
+      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" />
     </td>
   </tr>
 </table>
