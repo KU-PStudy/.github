@@ -1,8 +1,10 @@
 # KU-PStudy
 
+### ***[Weekly Roundup](https://github.com/orgs/KU-PStudy/projects/1)***
+
 ---
 
-##  
+## Algorithm Solving Languages
 
 | Language                                                                                          | Members          |
 |---------------------------------------------------------------------------------------------------|------------------|
@@ -61,4 +63,4 @@
   </tr>
 </table>
 
-## ***[Back to top](#top)***
+# ***[Back to top](#top)***
