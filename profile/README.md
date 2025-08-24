@@ -31,20 +31,6 @@
     </td>
   </tr>
   <tr align="center">
-    <th>Name</th>
-    <td>헤파리</td>
-    <td>건빵고기</td>
-    <td>홀생이인생</td>
-    <td>후르와</td>
-  </tr>
-  <tr align="center">
-    <th>GitHub</th>
-    <td><a href="https://github.com/rosmontisu">@rosmontisu</a></td>
-    <td><a href="https://github.com/Rayhke">@Rayhke</a></td>
-    <td><a href="https://github.com/Holsaeng">@Holsaeng</a></td>
-    <td><a href="https://github.com/hruwa">@hruwa</a></td>
-  </tr>
-  <tr align="center">
     <th>solved.ac</th>
     <td>
       <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" />
@@ -58,6 +44,20 @@
     <td>
       <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" />
     </td>
+  </tr>
+  <tr align="center">
+    <th>Name</th>
+    <td>헤파리</td>
+    <td>건빵고기</td>
+    <td>홀생이인생</td>
+    <td>후르와</td>
+  </tr>
+  <tr align="center">
+    <th>GitHub</th>
+    <td><a href="https://github.com/rosmontisu">@rosmontisu</a></td>
+    <td><a href="https://github.com/Rayhke">@Rayhke</a></td>
+    <td><a href="https://github.com/Holsaeng">@Holsaeng</a></td>
+    <td><a href="https://github.com/hruwa">@hruwa</a></td>
   </tr>
 </table>
 
