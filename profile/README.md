@@ -2,7 +2,9 @@
 
 ### ***[Weekly Roundup](https://github.com/orgs/KU-PStudy/projects/1)***
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KU-PStudy&repo=ku-algorithm-study&theme=github_dark&hide_border=true" alt="ku-algorithm-study"/>
+<a href="https://github.com/KU-PStudy/ku-algorithm-study">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KU-PStudy&repo=ku-algorithm-study&theme=github_dark&hide_border=true" alt="ku-algorithm-study"/>
+</a>
 
 ---
 
