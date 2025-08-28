@@ -37,16 +37,24 @@
   <tr align="center">
     <th>solved.ac</th>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" />
+      <a href="https://solved.ac/profile/rosmontis" target="_blank">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" />
+      </a>
     </td>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" />
+      <a href="https://solved.ac/profile/nink2458" target="_blank">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" />
+      </a>
     </td>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" alt="홀생이인생" />
+      <a href="https://solved.ac/profile/lms03225" target="_blank">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" alt="홀생이인생" />
+      </a>
     </td>
     <td>
-      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" />
+      <a href="https://solved.ac/profile/babykh98" target="_blank">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" />
+      </a>
     </td>
   </tr>
   <tr align="center">
