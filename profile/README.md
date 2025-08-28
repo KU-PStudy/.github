@@ -37,22 +37,22 @@
   <tr align="center">
     <th>solved.ac</th>
     <td>
-      <a href="https://solved.ac/profile/rosmontis" target="_blank">
+      <a href="https://solved.ac/profile/rosmontis" target="_blank" rel="noopener noreferrer">
         <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" />
       </a>
     </td>
     <td>
-      <a href="https://solved.ac/profile/nink2458" target="_blank">
+      <a href="https://solved.ac/profile/nink2458" target="_blank" rel="noopener noreferrer">
         <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" />
       </a>
     </td>
     <td>
-      <a href="https://solved.ac/profile/lms03225" target="_blank">
+      <a href="https://solved.ac/profile/lms03225" target="_blank" rel="noopener noreferrer">
         <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" alt="홀생이인생" />
       </a>
     </td>
     <td>
-      <a href="https://solved.ac/profile/babykh98" target="_blank">
+      <a href="https://solved.ac/profile/babykh98" target="_blank" rel="noopener noreferrer">
         <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" />
       </a>
     </td>
@@ -66,10 +66,10 @@
   </tr>
   <tr align="center">
     <th>GitHub</th>
-    <td><a href="https://github.com/rosmontisu">@rosmontisu</a></td>
-    <td><a href="https://github.com/Rayhke">@Rayhke</a></td>
-    <td><a href="https://github.com/Holsaeng">@Holsaeng</a></td>
-    <td><a href="https://github.com/hruwa">@hruwa</a></td>
+    <td><a href="https://github.com/rosmontisu" target="_blank" rel="noopener noreferrer">@rosmontisu</a></td>
+    <td><a href="https://github.com/Rayhke" target="_blank" rel="noopener noreferrer">@Rayhke</a></td>
+    <td><a href="https://github.com/Holsaeng" target="_blank" rel="noopener noreferrer">@Holsaeng</a></td>
+    <td><a href="https://github.com/hruwa" target="_blank" rel="noopener noreferrer">@hruwa</a></td>
   </tr>
 </table>
 
