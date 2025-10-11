@@ -14,7 +14,7 @@
 |---------------------------------------------------------------------------------------------------|------------------|
 | <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" />    | 헤파리, 건빵고기, 홀생이인생 |
 | <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" /> | 후르와              |
-| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | 오쿠러스          |
+| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | 오쿠러스             |
 
 ---
 
