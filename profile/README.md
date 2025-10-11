@@ -14,7 +14,7 @@
 |---------------------------------------------------------------------------------------------------|------------------|
 | <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" />    | 헤파리, 건빵고기, 홀생이인생 |
 | <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" /> | 후르와              |
-| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | kay5990          |
+| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | 오쿠러스          |
 
 ---
 
@@ -36,7 +36,7 @@
       <img src="https://avatars.githubusercontent.com/u/76837607?v=4" alt="후르와" style="width:80px" />
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/114277069?v=4" alt="kay5990" style="width:80px" />
+      <img src="https://avatars.githubusercontent.com/u/114277069?v=4" alt="오쿠러스" style="width:80px" />
     </td>
   </tr>
   <tr align="center">
@@ -63,7 +63,7 @@
     </td>
     <td>
       <a href="https://solved.ac/profile/kay5990">
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=kay5990" title="solved.ac Profile 이동" alt="kay5990" />
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=kay5990" title="solved.ac Profile 이동" alt="오쿠러스" />
       </a>
     </td>
   </tr>
@@ -73,7 +73,7 @@
     <td>건빵고기</td>
     <td>홀생이인생</td>
     <td>후르와</td>
-    <td>kay5990</td>
+    <td>오쿠러스</td>
   </tr>
   <tr align="center">
     <th>GitHub</th>
