@@ -14,7 +14,7 @@
 |---------------------------------------------------------------------------------------------------|------------------|
 | <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" />    | 헤파리, 건빵고기, 홀생이인생 |
 | <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" /> | 후르와              |
-| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | `-`              |
+| <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" />    | kay5990          |
 
 ---
 
@@ -24,38 +24,46 @@
   <tr align="center">
     <th>Profile</th>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/107000683?v=4" alt="헤파리" style="width:80px"/>
+      <img src="https://avatars.githubusercontent.com/u/107000683?v=4" alt="헤파리" style="width:80px" />
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/94730654?v=4" alt="건빵고기" style="width:80px"/>
+      <img src="https://avatars.githubusercontent.com/u/94730654?v=4" alt="건빵고기" style="width:80px" />
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/216300232?v=4" alt="홀생이인생" style="width:80px"/>
+      <img src="https://avatars.githubusercontent.com/u/216300232?v=4" alt="홀생이인생" style="width:80px" />
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/76837607?v=4" alt="후르와" style="width:80px"/>
+      <img src="https://avatars.githubusercontent.com/u/76837607?v=4" alt="후르와" style="width:80px" />
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/114277069?v=4" alt="kay5990" style="width:80px" />
     </td>
   </tr>
   <tr align="center">
     <th>solved.ac</th>
     <td>
       <a href="https://solved.ac/profile/rosmontis">
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" alt="헤파리" />
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=rosmontis" title="solved.ac Profile 이동" alt="헤파리" />
       </a>
     </td>
     <td>
       <a href="https://solved.ac/profile/nink2458">
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" alt="건빵고기" />
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=nink2458" title="solved.ac Profile 이동" alt="건빵고기" />
       </a>
     </td>
     <td>
       <a href="https://solved.ac/profile/lms03225">
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" alt="홀생이인생" />
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=lms03225" title="solved.ac Profile 이동" alt="홀생이인생" />
       </a>
     </td>
     <td>
       <a href="https://solved.ac/profile/babykh98">
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" alt="후르와" />
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=babykh98" title="solved.ac Profile 이동" alt="후르와" />
+      </a>
+    </td>
+    <td>
+      <a href="https://solved.ac/profile/kay5990">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=kay5990" title="solved.ac Profile 이동" alt="kay5990" />
       </a>
     </td>
   </tr>
@@ -65,13 +73,15 @@
     <td>건빵고기</td>
     <td>홀생이인생</td>
     <td>후르와</td>
+    <td>kay5990</td>
   </tr>
   <tr align="center">
     <th>GitHub</th>
-    <td><a href="https://github.com/rosmontisu">@rosmontisu</a></td>
-    <td><a href="https://github.com/Rayhke">@Rayhke</a></td>
-    <td><a href="https://github.com/Holsaeng">@Holsaeng</a></td>
-    <td><a href="https://github.com/hruwa">@hruwa</a></td>
+    <td><a href="https://github.com/rosmontisu" title="GitHub Profile 이동">@rosmontisu</a></td>
+    <td><a href="https://github.com/Rayhke" title="GitHub Profile 이동">@Rayhke</a></td>
+    <td><a href="https://github.com/Holsaeng" title="GitHub Profile 이동">@Holsaeng</a></td>
+    <td><a href="https://github.com/hruwa" title="GitHub Profile 이동">@hruwa</a></td>
+    <td><a href="https://github.com/oculusK" title="GitHub Profile 이동">@oculusK</a></td>
   </tr>
 </table>
 
